@@ -64,7 +64,6 @@ group :development do
   # gem "spring"
   # gem 'nokogiri', '1.12.5'  # or another version that works for your setup
   gem 'nokogiri', '>= 1.18.0'
- 
 
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
